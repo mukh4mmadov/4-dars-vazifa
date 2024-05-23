@@ -1,7 +1,7 @@
 const buttons = document.querySelectorAll("button");
 const obj = {
-  w: "crash",
-  a: "kick-bass",
+  w: "kick-bass",
+  a: "crash",
   s: "snare",
   d: "tom-1",
   j: "tom-2",
